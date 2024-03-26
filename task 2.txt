@@ -1,0 +1,9 @@
+*A JavaScript object is a named collection of values with state and behaviour
+
+*JavaScript objects consist of a set of key-value pairs, which are known as Properties.
+
+*All Properties are named in JavaScript objects 
+and the key part represents the Property name
+
+*Every object has some property associated with some value. 
+These values can be accessed using these properties associated with them

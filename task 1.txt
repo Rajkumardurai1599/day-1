@@ -1,0 +1,36 @@
+Difference between HTTP1.1 vs HTTP2
+
+HTTP 1
+
+1* HTTP Means HyperText Transfer Protocol is a data communications protocol
+ and acts as the foundation of the World Wide Web
+
+2* HTTP 1 - LOADS RESOURCES ONE AFTER OTHER .
+ IF IT IS NOT LOADED IT BLOCKED THE OTHER RESOURCE
+
+3*HTTP 1 simple request response model client sends a request to a server
+ and the server sends a response back to the client
+
+4*HTTP 1 has been a major contributor to the growth of the World Wide Web.
+
+5* it has several limitations they are Lack of multiplexing,Inability to prioritize requests
+No support for server push
+
+
+HTTP 2
+
+1* HTTP2 is the updated version of HTTP1  to address 
+some of the limitations and performance issues of HTTP1
+ and improve the speed and efficiency of web communication.
+
+2* HTTP 2 - IT ABLE TO SEND MULTIPLE STREAMS OF DATA .
+ SO NO RESOURCE BLOAKS OTHER RESOURCE
+
+3* http2 solves the problem that HTTP1 not solved and HTTP 2
+is faster and more efficient compare to HTTP1
+
+4* HTTP2 goal is to reduce the time by 
+enable the full request and response to multiplexing 
+
+5* HTTP2 has key features of Multiplexing,Server push,Prioritization
+
